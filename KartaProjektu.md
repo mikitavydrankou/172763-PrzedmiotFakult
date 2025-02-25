@@ -1,4 +1,4 @@
-# Karta Projektu: Silent-People  
+# Karta Projektu: Almaz  
 
 ### **1. Wizja Projektu**  
 Almaz to innowacyjna aplikacja wykorzystująca sztuczną inteligencję do tłumaczenia języka migowego na tekst i mowę w czasie rzeczywistym. Celem projektu jest:  
