@@ -28,7 +28,7 @@ Projekt generuje wartość poprzez:
 ---
 
 ### **4. Role w Projekcie**  
-- **Sponsor**: Organizacja Flip-Flop – finansowanie i wsparcie strategiczne.  
+- **Sponsor**: Organizacja Quiet Voices – finansowanie i wsparcie strategiczne.  
 - **Kierownik Projektu (PM)**: Koordynacja harmonogramu, budżetu i zespołu.  
 - **Technical Lead/Architekt**: Projektowanie architektury systemu i integracja modułów.  
 - **Programiści Frontend/Backend**: Implementacja interfejsu i logiki aplikacji.  
