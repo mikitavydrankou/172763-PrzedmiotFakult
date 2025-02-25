@@ -1,7 +1,7 @@
-# Karta Projektu: Almaz  
+# Karta Projektu: Quiet Voices  
 
 ### **1. Wizja Projektu**  
-Almaz to innowacyjna aplikacja wykorzystująca sztuczną inteligencję do tłumaczenia języka migowego na tekst i mowę w czasie rzeczywistym. Celem projektu jest:  
+Quiet Voices to innowacyjna aplikacja wykorzystująca sztuczną inteligencję do tłumaczenia języka migowego na tekst i mowę w czasie rzeczywistym. Celem projektu jest:  
 - **Eliminacja barier komunikacyjnych** między osobami niesłyszącymi a słyszącymi.  
 - **Zwiększenie niezależności i integracji społecznej** osób głuchych w kluczowych obszarach: edukacji, służbie zdrowia, administracji i usługach.  
 - **Zapewnienie zgodności z wymogami dostępności cyfrowej** dla instytucji i firm.  
